@@ -1,10 +1,10 @@
-# Travographer-Portal
+# Travographer Portal Using Django And Python
 It is an implementation to Setup Amazon S3 in a Django Project, how to use S3 to handle user uploaded files.
 
 [![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-2.1-brightgreen.svg)](https://djangoproject.com)
 
-![Image](https://github.com/vinaysomawat/Travographer-Portal/blob/master/demo.png)
+![Image](https://github.com/VEDANTGHODKE/Travographer-Portal/blob/master/demo.png)
 
 
 ## Running the Project Locally
@@ -85,7 +85,3 @@ STATICFILES_DIRS = [
 STATIC_URL = 'https://%s/%s/' % (AWS_S3_CUSTOM_DOMAIN, AWS_LOCATION)
 STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 ```
-
-**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
-
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
