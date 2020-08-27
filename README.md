@@ -4,7 +4,7 @@ It is an implementation to Setup Amazon S3 in a Django Project, how to use S3 to
 [![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-2.1-brightgreen.svg)](https://djangoproject.com)
 
-![Image](https://github.com/VEDANTGHODKE/Travographer-Portal/blob/master/demo.png)
+![Image](https://github.com/VEDANTGHODKE/Travographer-Portal-Using-Django/blob/master/demo.png)
 
 
 ## Running the Project Locally
